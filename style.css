@@ -1,0 +1,10 @@
+html {
+    /* Prevents pagging from adding extra h/w to page */
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    /* vh = viewport height */
+    min-height: 100vh;
+}
